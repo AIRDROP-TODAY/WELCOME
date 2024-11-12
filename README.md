@@ -9,5 +9,5 @@
 🚦 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝘀𝘁𝗼𝗽𝗽𝗶𝗻𝗴 𝗯𝘆! 🚦
 </p>
 <p align="center">
-  <img src="https://github.com/DonsPabloXYZ/DonsPabloXYZ/blob/main/dons.gif" alt="Your GIF Description" />
+  <img src="https://github.com/AIRDROP-TODAY/WELCOME/blob/main/bitcoin.gif" alt="Your GIF Description" />
 </p>
